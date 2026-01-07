@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Example usage of the chess engine in various modes.
+Example usage of Borken Chess V2 in various modes.
 """
 
 from src.engine import ChessEngine
@@ -218,7 +218,7 @@ def main():
     """Run all examples."""
     print("\n")
     print("╔" + "=" * 58 + "╗")
-    print("║" + " " * 12 + "Chess Engine Examples" + " " * 25 + "║")
+    print("║" + " " * 12 + "Borken Chess V2 Examples" + " " * 22 + "║")
     print("╚" + "=" * 58 + "╝")
     print()
     

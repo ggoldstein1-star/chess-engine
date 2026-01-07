@@ -1,4 +1,4 @@
-# 📋 Chess Engine - Complete File Manifest
+# 📋 Borken Chess V2 - Complete File Manifest
 
 ## Core Engine Modules (src/)
 

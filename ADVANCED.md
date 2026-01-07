@@ -200,11 +200,11 @@ time_for_move = min(our_time * 0.05, 3.0)  # 5% of remaining, max 3s
 
 ```
 > uci
-id name Chess Engine Blitz
-id author Chess Team
-option name Depth type spin default 6 min 1 max 20
-option name TimeLimit type spin default 3000 min 100 max 10000
-uciok
+> id name Borken Chess V2
+> id author Borken Team
+> option name Depth type spin default 6 min 1 max 20
+> option name TimeLimit type spin default 3000 min 100 max 10000
+> uciok
 
 > position startpos moves e2e4 e7e5
 > go wtime 30000 btime 30000

@@ -57,8 +57,8 @@ class UCIInterface:
     
     def _cmd_uci(self):
         """Handle 'uci' command."""
-        print("id name Chess Engine Blitz")
-        print("id author Chess Team")
+        print("id name Borken Chess V2")
+        print("id author Borken Team")
         print("option name Depth type spin default 6 min 1 max 20")
         print("option name TimeLimit type spin default 3000 min 100 max 10000")
         print("uciok")

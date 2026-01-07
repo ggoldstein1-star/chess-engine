@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Main entry point for chess engine."""
+"""Main entry point for Borken Chess V2."""
 import argparse
 import sys
 import logging
@@ -33,7 +33,7 @@ def play_against_engine(use_external: bool = False, engine_path: Optional[str] =
 
     # Choose color
     print("\n" + "=" * 50)
-    print("PLAY AGAINST THE CHESS ENGINE")
+    print("PLAY AGAINST BORKEN CHESS V2")
     print("=" * 50)
     print("\nChoose your color:")
     print("  1 - White (you play first)")
@@ -132,7 +132,7 @@ def cli_mode(use_external: bool = False, engine_path: Optional[str] = None):
     board = ChessBoard()
 
     print("\n" + "=" * 50)
-    print("CHESS ENGINE - CLI MODE")
+    print("BORKEN CHESS V2 - CLI MODE")
     print("=" * 50)
     print("\nCommands:")
     print("  play          - Play a full game against the engine")
@@ -244,7 +244,7 @@ def bot_mode(username: str, password: str, depth: int, max_games: int, use_exter
 def main():
     """Main entry point."""
     parser = argparse.ArgumentParser(
-        description="Chess Engine specialized for blitz chess"
+        description="Borken Chess V2 specialized for blitz chess"
     )
 
     parser.add_argument("--internal", action="store_true", help="Use internal built-in engine instead of external UCI engine")

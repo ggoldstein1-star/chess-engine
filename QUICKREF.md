@@ -1,4 +1,4 @@
-# 🎯 Chess Engine for Blitz Chess - Quick Reference Guide
+# 🎯 Borken Chess V2 - Quick Reference Guide
 
 ## Getting Started in 30 Seconds
 

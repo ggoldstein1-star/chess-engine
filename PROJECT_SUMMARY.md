@@ -1,4 +1,4 @@
-# Chess Engine for Blitz - Project Summary
+# Borken Chess V2 - Project Summary
 
 ## Overview
 
@@ -272,4 +272,4 @@ For issues or questions:
 
 **Created**: January 2026  
 **Status**: Production Ready  
-**Maintainer**: Chess Engine Team
+**Maintainer**: Borken Chess Team

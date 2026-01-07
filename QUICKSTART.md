@@ -1,4 +1,4 @@
-# Quick Start Guide for Chess Engine
+# Quick Start Guide for Borken Chess V2
 
 ## Installation
 
@@ -17,7 +17,7 @@ python test_quick.py
 Expected output:
 ```
 ============================================================
-Chess Engine Test Suite
+Borken Chess V2 Test Suite
 ============================================================
 
 Test 1: Engine Initialization

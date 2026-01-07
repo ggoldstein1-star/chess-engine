@@ -1,6 +1,6 @@
-# Chess Engine for Blitz Chess - Documentation Index
+# Borken Chess V2 - Documentation Index
 
-Welcome to the Chess Engine for Blitz Chess! This is a complete, production-ready chess engine specialized for fast blitz games on chess.com.
+Welcome to Borken Chess V2! This is a complete, production-ready chess engine specialized for fast blitz games on chess.com.
 
 ## 📚 Documentation Guide
 
@@ -114,7 +114,7 @@ Examples included:
 ## 🏗️ Project Structure
 
 ```
-chess-engine/
+borken-chess-v2/
 ├── src/
 │   ├── engine.py              # Main search algorithm
 │   ├── evaluation.py          # Position scoring
@@ -264,6 +264,6 @@ Having issues? Check the appropriate documentation:
 
 ---
 
-**Welcome to the Chess Engine for Blitz!** 🎯♟️
+**Welcome to Borken Chess V2!** 🎯♟️
 
 Enjoy playing chess with a powerful, customizable engine built in pure Python.

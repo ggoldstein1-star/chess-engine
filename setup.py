@@ -1,10 +1,10 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="chess-engine-blitz",
+    name="borken-chess-v2",
     version="1.0.0",
-    description="A specialized chess engine for blitz chess on chess.com",
-    author="Chess Engine",
+    description="Borken Chess V2 - specialized blitz chess engine for chess.com",
+    author="Borken Chess",
     packages=find_packages(),
     python_requires=">=3.9",
     install_requires=[

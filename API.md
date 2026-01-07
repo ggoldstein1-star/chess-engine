@@ -391,8 +391,8 @@ interface.run()
 
 ```
 > uci
-id name Chess Engine Blitz
-id author Chess Team
+id name Borken Chess V2
+id author Borken Team
 uciok
 
 > setoption name Depth value 5

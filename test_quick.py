@@ -10,7 +10,7 @@ import chess
 def test_basic_functionality():
     """Test basic engine functionality."""
     print("=" * 60)
-    print("Chess Engine Test Suite")
+    print("Borken Chess V2 Test Suite")
     print("=" * 60)
     print()
     
